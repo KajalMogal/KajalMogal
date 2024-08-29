@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kajalmogal
+- 👋 Hi, I’m @KajalMogal 
   
 - 🌱 I’m interested in web development💻 and blockchain technology⛓.
 - 🌱 I’m looking to collaborate on open source projects and innovative web or blockchain initiatives.
